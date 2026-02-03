@@ -59,17 +59,13 @@ pyramid(dat,Llab="Experimento",Rlab="Realidad",Clab="Provincia",main="% de guard
 
 
 
-################################ Mierdas Varias
+################################ Variedades
 
 
 jaccard_index <- length(intersect(realidadProv, resultadoProv)) / length(union(realidadProv, resultadoProv))
 jaccard_index
 
 sqrt(sum((realidad - resultado)^2))
-
-
-
-
 
 
 # COMPARATIVA CON TODOS LOS DATOS ORDENADOS

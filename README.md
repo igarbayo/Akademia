@@ -1,21 +1,21 @@
 # Cherry 🍒
 
-**Algoritmo de Inteligencia de Negocio para la Expansión Estratégica de Guarderías en España**
+**Business Intelligence Algorithm for Strategic Daycare Expansion in Spain**
 
-> "How to Create Great Things" - Respuestas Sencillas a Problemas Complejos
+> "How to Create Great Things" - Simple Answers to Complex Problems
 
 ---
 
-## Contexto General
+## General Context
 
-| Aspecto | Detalle |
-|---------|---------|
-| **Programa** | Akademia: Caso Práctico 2023-2024 |
-| **Organizador** | Fundación Innovación Bankinter |
-| **Equipo** | Equipo Cereza (6 miembros) |
-| **Fecha** | 12 de enero de 2024 |
+| Aspect | Detail |
+|--------|--------|
+| **Program** | Akademia: Case Study 2023-2024 |
+| **Organizer** | Fundación Innovación Bankinter |
+| **Team** | Team Cereza (6 members) |
+| **Date** | January 12, 2024 |
 
-### Miembros del Equipo
+### Team Members
 
 - César Fieiras Ceide
 - Ignacio Garbayo Fernández
@@ -26,322 +26,322 @@
 
 ---
 
-## El Problema
+## The Problem
 
-**Objetivo:** Localizar las **100 mejores ubicaciones** para abrir guarderías en España (expansión de cadena existente).
+**Objective:** Locate the **100 best locations** to open daycares in Spain (expansion of an existing chain).
 
-### Especificaciones del Negocio
+### Business Specifications
 
-| Parámetro | Valor |
+| Parameter | Value |
 |-----------|-------|
-| Niños por guardería | 40 |
-| Coste servicio/niño/mes | 450€ |
-| Niños por empleado | 10 |
-| Ingresos mensuales/guardería | 18.000€ |
-| Requisitos | Ocupación plena, sin morosos |
+| Children per daycare | 40 |
+| Service cost/child/month | €450 |
+| Children per employee | 10 |
+| Monthly revenue/daycare | €18,000 |
+| Requirements | Full occupancy, no defaulters |
 
-### Perfil del Cliente Objetivo
+### Target Customer Profile
 
-- Familia con buen potencial económico
-- Miembros en edad de asistencia a guardería (0-4 años)
-- Miembros en edad de tener hijos (25-44 años)
-- Renta suficiente para evitar morosidad
-
----
-
-## La Propuesta de Valor
-
-### Filosofía
-
-**"How to Create Great Things"** - Respuestas Sencillas a Problemas Complejos
-
-### Enfoque
-
-1. Reunir el capital intelectual apropiado
-2. Adaptar ese conocimiento a necesidades específicas
-3. Combinar e interrelacionar todo el conocimiento
-
-### Capacidades del Sistema
-
-- ✅ Plena disponibilidad del conocimiento
-- ✅ Tiempo de respuesta automático
-- ✅ Adaptable en directo a nuevos contextos
-- ✅ Extrapolable/escalable a otros ecosistemas
-- ✅ Economía de escala (conocimiento interrelacionado)
+- Family with good economic potential
+- Members of daycare age (0-4 years)
+- Members of childbearing age (25-44 years)
+- Sufficient income to avoid default
 
 ---
 
-## Fuentes de Conocimiento
+## The Value Proposition
 
-### 1. Experto en Guarderías
+### Philosophy
+
+**"How to Create Great Things"** - Simple Answers to Complex Problems
+
+### Approach
+
+1. Gather the appropriate intellectual capital
+2. Adapt that knowledge to specific needs
+3. Combine and interrelate all knowledge
+
+### System Capabilities
+
+- ✅ Full knowledge availability
+- ✅ Automatic response time
+- ✅ Adaptable in real-time to new contexts
+- ✅ Extrapolable/scalable to other ecosystems
+- ✅ Economies of scale (interrelated knowledge)
+
+---
+
+## Knowledge Sources
+
+### 1. Daycare Expert
 
 **Óscar Díaz Reimóndez**
-- Socio fundador de NemoMarlin
-- Director ejecutivo y de expansión
-- **Aporta:** Pirámide poblacional ideal, conocimiento del sector
+- Founding partner of NemoMarlin
+- Executive and expansion director
+- **Provides:** Ideal population pyramid, sector knowledge
 
-### 2. Modelos de Lenguaje (LLMs)
+### 2. Language Models (LLMs)
 
 - **Bard** (Google)
 - **ChatGPT** (OpenAI)
 - **Perplexity**
 
-**Aportan:**
-- Escandallo familiar clase media-alta
-- Coste educadora infantil privada (2.000-4.000€/mes según Infojobs)
-- Porcentaje de gasto en educación (~10%)
-- *Insight:* "La compra de nueva vivienda está relacionada con la ampliación de familia"
-- *Insight:* "Las personas duermen en el mejor lugar que pueden permitirse"
+**They provide:**
+- Upper-middle class family budget breakdown
+- Private childcare educator cost (€2,000-4,000/month according to Infojobs)
+- Percentage of spending on education (~10%)
+- *Insight:* "New home purchase is related to family expansion"
+- *Insight:* "People sleep in the best place they can afford"
 
-### 3. Datos Oficiales
+### 3. Official Data
 
-- **INE:** Edad media para tener hijos (32 años)
-- **Ministerio de Educación:** Registro de guarderías privadas (validación)
-- **Bankinter:** Datos demográficos, rentas por sección censal
+- **INE:** Average age for having children (32 years)
+- **Ministry of Education:** Private daycare registry (validation)
+- **Bankinter:** Demographic data, income by census section
 
-### 4. Datos Inmobiliarios (validación)
+### 4. Real Estate Data (validation)
 
-- **FotoCasa:** Precio metro cuadrado
-- **Idealista:** Precio alquiler
+- **FotoCasa:** Price per square meter
+- **Idealista:** Rental price
 
-### 5. Experto en Marketing (anónimo)
-
----
-
-## Las 3 Preguntas que Responde Cherry
-
-1. **¿Cuál es la pirámide de población ideal para el negocio?**
-2. **¿En qué rango de renta debe estar la familia ideal?**
-3. **¿Cómo saber si la familia está en el mejor momento para adquirir el servicio?**
+### 5. Marketing Expert (anonymous)
 
 ---
 
-## Análisis Detallado
+## The 3 Questions Cherry Answers
 
-### A. Pirámide Poblacional Ideal
+1. **What is the ideal population pyramid for the business?**
+2. **What income range should the ideal family be in?**
+3. **How to know if the family is at the best time to acquire the service?**
 
-| Franja | Relevancia | Justificación |
-|--------|------------|---------------|
-| 0-4 | **Muy alta** | Edad objetivo (niños de guardería) |
-| 5-9 | Media-baja | Competencia con colegios es impracticable |
-| 10-14 | Baja | Necesaria para ajuste real |
+---
+
+## Detailed Analysis
+
+### A. Ideal Population Pyramid
+
+| Age Range | Relevance | Justification |
+|-----------|-----------|---------------|
+| 0-4 | **Very high** | Target age (daycare children) |
+| 5-9 | Medium-low | Competition with schools is impractical |
+| 10-14 | Low | Necessary for real adjustment |
 | 15-19 | Residual | - |
-| 20-24 | Media | Comienzo edad de hijos y poder adquisitivo |
-| 25-29 | Media-alta | Cercano a 32, pero menos poder adquisitivo |
-| 30-34 | **Alta** | Según INE, 32 es edad media para tener hijos |
-| 35-39 | Media-alta | Más asentada y más PA, pero menos probable hijos |
-| 40-44 | Media | Más asentada (€) pero más edad |
-| 45-49 | Media-baja | Posible público con más PA, nuevas formas fecundación |
-| 50-54 | Baja | Necesaria para ajuste real |
-| 55-59 | Baja | Necesaria para ajuste real |
+| 20-24 | Medium | Beginning of childbearing age and purchasing power |
+| 25-29 | Medium-high | Close to 32, but less purchasing power |
+| 30-34 | **High** | According to INE, 32 is average age for having children |
+| 35-39 | Medium-high | More established and higher PP, but less likely to have children |
+| 40-44 | Medium | More established (€) but older |
+| 45-49 | Medium-low | Possible audience with more PP, new fertility methods |
+| 50-54 | Low | Necessary for real adjustment |
+| 55-59 | Low | Necessary for real adjustment |
 | 60-64 | Residual | - |
 
-### B. Rango de Renta Óptimo
+### B. Optimal Income Range
 
-**Escandallo familiar clase media-alta** (según Bard):
+**Upper-middle class family budget breakdown** (according to Bard):
 
-| Porcentaje | Actividad |
-|------------|-----------|
-| 26,20% | Vivienda |
-| 15,80% | Transporte |
-| 13,70% | Alimentación y bebidas |
-| **10,40%** | **Educación y cultura** |
-| 9,90% | Ropa y calzado |
-| 7,40% | Atención sanitaria |
-| 6,20% | Ocio y cultura |
-| 6,20% | Vivienda y servicios básicos |
+| Percentage | Activity |
+|------------|----------|
+| 26.20% | Housing |
+| 15.80% | Transportation |
+| 13.70% | Food and beverages |
+| **10.40%** | **Education and culture** |
+| 9.90% | Clothing and footwear |
+| 7.40% | Healthcare |
+| 6.20% | Leisure and culture |
+| 6.20% | Housing and basic services |
 
-**Cálculo del rango:**
+**Range calculation:**
 
-Fórmula: `(Coste × 10) × 12`
+Formula: `(Cost × 10) × 12`
 
-- **Renta mínima:** (450 × 10) × 12 = **54.000€/año**
-  - Puede pagar guardería (450€/mes)
-- **Renta máxima:** (2.000 × 10) × 12 = **240.000€/año**
-  - No puede pagar educadora privada (2.000€/mes), así que usaría guardería
+- **Minimum income:** (450 × 10) × 12 = **€54,000/year**
+  - Can afford daycare (€450/month)
+- **Maximum income:** (2,000 × 10) × 12 = **€240,000/year**
+  - Cannot afford private educator (€2,000/month), so would use daycare
 
-### C. Momento del Mercado Inmobiliario
+### C. Real Estate Market Timing
 
-**Lógica:** La compra de vivienda correlaciona con ampliación familiar
+**Logic:** Home purchase correlates with family expansion
 
-**Escala de momento:**
+**Timing scale:**
 
-| Indicador | Valor |
+| Indicator | Value |
 |-----------|-------|
 | ++ | 1 |
-| + | 0,5 |
+| + | 0.5 |
 | = | 0 |
-| - | -0,5 |
+| - | -0.5 |
 | -- | -1 |
 
-Se calcula la media entre pisos y casas para cada sección.
+The average between apartments and houses is calculated for each section.
 
 ---
 
-## El Algoritmo Cherry
+## The Cherry Algorithm
 
-### Funcionamiento por Fases
+### Phase-based Operation
 
 ```
-ENTRADA: Datos de secciones censales
+INPUT: Census section data
     ↓
-FASE 1: Ordenación por ajuste poblacional (Parámetro P)
+PHASE 1: Sorting by population adjustment (Parameter P)
     ↓
-FASE 2: Filtrado por renta (54.000€ ≤ Renta ≤ 240.000€)
+PHASE 2: Filtering by income (€54,000 ≤ Income ≤ €240,000)
     ↓
-FASE 3: Filtrado por momento (selección escalonada M=1, 0.75, 0.5...)
+PHASE 3: Filtering by timing (stepped selection M=1, 0.75, 0.5...)
     ↓
-SALIDA: Mapa con las 100 mejores secciones censales
+OUTPUT: Map with the 100 best census sections
 ```
 
-### Modelización Matemática
+### Mathematical Modeling
 
-#### Parámetro P (Ajuste Poblacional)
-
-```
-P₀ = Σ |Peso(i) - N(i)| / Peso(i)
-```
-
-Donde:
-- `Peso(i)` = porcentaje asignado en pirámide ideal
-- `N(i)` = porcentaje real de la sección
-
-**Reglas especiales:**
-- Si `Peso(i) = 0`, no se divide
-- Para franjas **(0-4)** y **(30-34)**, **NO se penaliza el exceso**
-- Normalización: `P₀ = P₀/máx(P₀)`, luego `P = 1 - P₀`
-
-#### Filtrado por Renta
+#### Parameter P (Population Adjustment)
 
 ```
-54.000 ≤ RM2016 ≤ 240.000
+P₀ = Σ |Weight(i) - N(i)| / Weight(i)
 ```
 
-#### Filtrado por Momento
+Where:
+- `Weight(i)` = percentage assigned in ideal pyramid
+- `N(i)` = actual percentage of the section
 
-Selección escalonada: primero M=1, si < 100 → M=0.75, etc.
+**Special rules:**
+- If `Weight(i) = 0`, no division
+- For age ranges **(0-4)** and **(30-34)**, **excess is NOT penalized**
+- Normalization: `P₀ = P₀/max(P₀)`, then `P = 1 - P₀`
+
+#### Income Filtering
+
+```
+54,000 ≤ RM2016 ≤ 240,000
+```
+
+#### Timing Filtering
+
+Stepped selection: first M=1, if < 100 → M=0.75, etc.
 
 ---
 
-## Comparativa con FofM
+## Comparison with FofM
 
-| Aspecto | Cherry | FofM |
-|---------|--------|------|
-| Correlación (r) | 0.8526657 | 0.8991791 |
-| Fórmula conocida | ✅ Sí | ❌ No (caja negra Excel) |
-| Penaliza exceso en 0-4 y 30-34 | ❌ No | ✅ Sí |
-| Modificable | ✅ Sí | ❌ No |
-| Interpretabilidad | **Alta** | Baja |
+| Aspect | Cherry | FofM |
+|--------|--------|------|
+| Correlation (r) | 0.8526657 | 0.8991791 |
+| Known formula | ✅ Yes | ❌ No (Excel black box) |
+| Penalizes excess in 0-4 and 30-34 | ❌ No | ✅ Yes |
+| Modifiable | ✅ Yes | ❌ No |
+| Interpretability | **High** | Low |
 
-**Ventajas de Cherry:**
-- No penaliza exceso en franjas clave
-- Fórmula conocida y modificable
-- Cálculo simple que mide error relativo
-
----
-
-## Validación del Algoritmo
-
-**Fuente de validación:** Registro del Ministerio de Educación y Formación Profesional (guarderías privadas no concertadas)
-
-> **Nota:** Posible contaminación al no considerar solo franquicias
-
-### Casos de Estudio Validados
-
-| Sección | Ubicación | Edad predominante | Renta Hogar 2016 | Precio m² | Alquiler |
-|---------|-----------|-------------------|------------------|-----------|----------|
-| 2807915160 | Madrid-Costillares | 25-29 años | 69.237€ | 4.588€ | 1.250€ |
-| 2807901087 | Madrid-Justicia | 35-44 años | 69.073€ | 7.802€ | 2.578€ |
-| 2807915153 | Madrid-Colina | 25-44 años | 77.122€ | 4.682€ | 1.557€ |
-| 0801906011 | Barcelona-Sarrià-San Gervasi | 25-64 años | 54.730€ | 5.930€ | 2.521€ |
+**Cherry advantages:**
+- Does not penalize excess in key age ranges
+- Known and modifiable formula
+- Simple calculation that measures relative error
 
 ---
 
-## 🛠️ Tecnología
+## Algorithm Validation
 
-| Componente | Detalle |
-|------------|---------|
-| **Lenguaje** | R |
-| **Librerías** | `pyramid` (visualización demográfica), `leaflet` (mapas interactivos) |
-| **Datos** | ~8.000 secciones censales × ~70 variables |
+**Validation source:** Ministry of Education and Vocational Training Registry (private non-subsidized daycares)
+
+> **Note:** Possible contamination by not considering only franchises
+
+### Validated Case Studies
+
+| Section | Location | Predominant age | Household Income 2016 | Price/m² | Rent |
+|---------|----------|-----------------|----------------------|----------|------|
+| 2807915160 | Madrid-Costillares | 25-29 years | €69,237 | €4,588 | €1,250 |
+| 2807901087 | Madrid-Justicia | 35-44 years | €69,073 | €7,802 | €2,578 |
+| 2807915153 | Madrid-Colina | 25-44 years | €77,122 | €4,682 | €1,557 |
+| 0801906011 | Barcelona-Sarrià-San Gervasi | 25-64 years | €54,730 | €5,930 | €2,521 |
 
 ---
 
-## Estructura del Proyecto
+## Technology
+
+| Component | Detail |
+|-----------|--------|
+| **Language** | R |
+| **Libraries** | `pyramid` (demographic visualization), `leaflet` (interactive maps) |
+| **Data** | ~8,000 census sections × ~70 variables |
+
+---
+
+## Project Structure
 
 ```
 ├── src/
-│   ├── Script Ejecución Cereza.R           # Ejecuta todo el pipeline (Cherry)
-│   ├── Script Ejecución FofM.R             # Ejecuta todo el pipeline (FofM)
-│   ├── (0) Pirámide.R                      # Visualización pirámide ideal
-│   ├── (1) Generacion DataFrame Basico.R   # Preparación de datos
-│   ├── (2) Algoritmo Cereza.R              # Implementación Cherry
-│   ├── (2) Algoritmo FofM.R                # Algoritmo alternativo
-│   ├── (3) Mapa.R                          # Visualización geográfica
-│   ├── (4) Entrenamiento.R                 # Validación del modelo
-│   ├── DatosTratados.csv                   # Datos procesados
-│   ├── localizacion.csv                    # Coordenadas geográficas
-│   ├── momento.csv                         # Datos momento mercado
-│   └── FofM.csv                            # Resultados FofM
+│   ├── Script Ejecución Cereza.R           # Runs entire pipeline (Cherry)
+│   ├── Script Ejecución FofM.R             # Runs entire pipeline (FofM)
+│   ├── (0) Pirámide.R                      # Ideal pyramid visualization
+│   ├── (1) Generacion DataFrame Basico.R   # Data preparation
+│   ├── (2) Algoritmo Cereza.R              # Cherry implementation
+│   ├── (2) Algoritmo FofM.R                # Alternative algorithm
+│   ├── (3) Mapa.R                          # Geographic visualization
+│   ├── (4) Entrenamiento.R                 # Model validation
+│   ├── DatosTratados.csv                   # Processed data
+│   ├── localizacion.csv                    # Geographic coordinates
+│   ├── momento.csv                         # Market timing data
+│   └── FofM.csv                            # FofM results
 │
-├── Presentación Algoritmo.pdf              # Documentación técnica (38 págs)
-├── Presentación Ventas.pdf                 # Propuesta de valor (45 págs)
-├── README.md                               # Este archivo
-├── CLAUDE.md                               # Contexto técnico para IA
-└── LICENSE                                 # Licencia MIT
+├── Presentación Algoritmo.pdf              # Technical documentation (38 pages)
+├── Presentación Ventas.pdf                 # Value proposition (45 pages)
+├── README.md                               # This file
+├── CLAUDE.md                               # Technical context for AI
+└── LICENSE                                 # MIT License
 ```
 
 ---
 
-## Uso
+## Usage
 
-### Prerrequisitos
+### Prerequisites
 
 ```r
 install.packages("pyramid")
 install.packages("leaflet")
 ```
 
-### Ejecución Rápida (Recomendado)
+### Quick Execution (Recommended)
 
-Ejecutar uno de los scripts que realizan todos los pasos automáticamente:
+Run one of the scripts that perform all steps automatically:
 
-- `Script Ejecución Cereza.R` → Pipeline completo con algoritmo Cherry
-- `Script Ejecución FofM.R` → Pipeline completo con algoritmo FofM
+- `Script Ejecución Cereza.R` → Complete pipeline with Cherry algorithm
+- `Script Ejecución FofM.R` → Complete pipeline with FofM algorithm
 
-### Ejecución Paso a Paso
+### Step-by-Step Execution
 
-1. **Preparar datos:** Ejecutar `(1) Generacion DataFrame Basico.R`
-2. **Ejecutar algoritmo:** Elegir uno de los dos scripts disponibles:
-   - `(2) Algoritmo Cereza.R` → Algoritmo Cherry (interpretable)
-   - `(2) Algoritmo FofM.R` → Algoritmo FofM (mayor correlación)
-3. **Visualizar resultados:** Ejecutar `(3) Mapa.R`
-4. **Validar (opcional):** Ejecutar `(4) Entrenamiento.R`
-
----
-
-## Entregables
-
-- ✅ Mapa interactivo con las 100 mejores secciones censales
-- ✅ Análisis por provincia
-- ✅ Validación estadística (coeficiente de correlación)
-- 🔜 (Propuesta futura) Relación de locales y plan de gastos de apertura
+1. **Prepare data:** Run `(1) Generacion DataFrame Basico.R`
+2. **Run algorithm:** Choose one of the two available scripts:
+   - `(2) Algoritmo Cereza.R` → Cherry algorithm (interpretable)
+   - `(2) Algoritmo FofM.R` → FofM algorithm (higher correlation)
+3. **Visualize results:** Run `(3) Mapa.R`
+4. **Validate (optional):** Run `(4) Entrenamiento.R`
 
 ---
 
-## Documentación Adicional
+## Deliverables
 
-- [Presentación Algoritmo.pdf](Presentación%20Algoritmo.pdf) - Documentación técnica completa
-- [Presentación Ventas.pdf](Presentación%20Ventas.pdf) - Propuesta de valor y metodología
+- ✅ Interactive map with the 100 best census sections
+- ✅ Analysis by province
+- ✅ Statistical validation (correlation coefficient)
+- 🔜 (Future proposal) List of premises and opening cost plan
 
 ---
 
-## Licencia
+## Additional Documentation
 
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
+- [Presentación Algoritmo.pdf](Presentación%20Algoritmo.pdf) - Complete technical documentation
+- [Presentación Ventas.pdf](Presentación%20Ventas.pdf) - Value proposition and methodology
 
-### Atribución de Datos
+---
 
-Los archivos CSV de la carpeta `src/` provienen de:
-- **INE (Instituto Nacional de Estadística)**: Datos demográficos y censales de acceso público
-- **Fundación Innovación Bankinter**: Datos públicos compartidos en el programa Akademia 2023-2024
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+### Data Attribution
+
+CSV files in the `src/` folder come from:
+- **INE (National Statistics Institute)**: Publicly accessible demographic and census data
+- **Fundación Innovación Bankinter**: Public data shared in the Akademia 2023-2024 program

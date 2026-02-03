@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Equipo Cereza - Akademia Fundación Innovación Bankinter
+Copyright (c) 2024 Team Cereza - Akademia Fundación Innovación Bankinter
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,11 +22,11 @@ SOFTWARE.
 
 ---
 
-## Atribución de Datos
+## Data Attribution
 
-Los archivos CSV contenidos en la carpeta `src/` provienen de las siguientes fuentes:
+The CSV files contained in the `src/` folder come from the following sources:
 
-- **Instituto Nacional de Estadística (INE)**: Datos demográficos y censales de acceso público.
-- **Fundación Innovación Bankinter**: Datos públicos compartidos en el marco del programa Akademia 2023-2024.
+- **Instituto Nacional de Estadística (INE)**: Publicly accessible demographic and census data.
+- **Fundación Innovación Bankinter**: Public data shared within the Akademia 2023-2024 program.
 
-Estos datos han sido procesados y transformados para su uso en el proyecto Cherry.
+This data has been processed and transformed for use in the Cherry project.
