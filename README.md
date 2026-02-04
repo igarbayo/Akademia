@@ -4,6 +4,8 @@
 
 > "How to Create Great Things" - Simple Answers to Complex Problems
 
+This project received the **Best Practical Case award** in its Akademia edition, an initiative of the Bankinter Innovation Foundation.
+
 ---
 
 ## General Context
